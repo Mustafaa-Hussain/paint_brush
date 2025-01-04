@@ -3,6 +3,8 @@
 ## Overview
 The **Paint Brush** project is an interactive Java applet-based drawing application that enables users to create and manipulate simple shapes. It provides basic drawing functionalities with customizable colors, line strokes, and undo operations.
 
+![Screenshot 2025-01-04 204600](https://github.com/user-attachments/assets/1f49a4d4-1e29-4024-8880-75d34321b27e)
+
 ## Features
 
 1. **Color Selection**
